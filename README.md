@@ -1,3 +1,3 @@
 # Calculator
 
-## A mathematical calculator similar to the one on IOS / iPad
+## A mathematical calculator similar to the one on iOS
